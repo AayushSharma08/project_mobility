@@ -58,6 +58,11 @@ section {
   animation: fade 1s ease-in-out;
 }
 
+.design_photo {
+  text-align: center;
+  margin: 20px 0;
+}
+
 .buttons {
   margin-top: 20px;
   text-align: center;
